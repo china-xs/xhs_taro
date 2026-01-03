@@ -1,0 +1,15 @@
+.index {
+  padding: 48px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.index__login {
+  width: 240px;
+  height: 72px;
+  line-height: 72px;
+  background: #111;
+  color: #fff;
+  border-radius: 36px;
+}
